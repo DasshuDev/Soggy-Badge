@@ -1,5 +1,5 @@
 #include <Geode/Geode.hpp>
-#include <Geode/Modify/ProfilePage.hpp>
+#include <Geode/modify/ProfilePage.hpp>
 #include <dasshu.badgified/include/Badgified.hpp>
 
 using namespace geode::prelude;
