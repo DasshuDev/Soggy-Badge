@@ -1,2 +1,2 @@
 # Soggy Badge
-go sog yourself
+go sog everyone
