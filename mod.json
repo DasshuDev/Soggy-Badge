@@ -1,0 +1,26 @@
+{
+	"geode": "5.8.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "dasshudev.soggy-badge",
+	"name": "Soggy Badge",
+	"version": "v1.0.0",
+	"developer": "DasshuDev",
+	"description": "sog",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3",
+        "dasshu.badgified": ">=v1.0.0"
+	},
+    "tags": [
+        "joke"
+    ],
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}
